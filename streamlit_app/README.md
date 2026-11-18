@@ -2,13 +2,13 @@
 
 A multi-page Streamlit app that serves as my data visualization portfolio and a small analytics product. It explores the Music & Mental Health (MxMH) survey to see how people's listening habits line up with their self-rated anxiety, depression, insomnia and OCD, using an EDA gallery and an interactive dashboard.
 
-**Live app:** https://YOUR-APP.streamlit.app  <!-- TODO: paste your Streamlit Cloud URL -->
+**Live app:** [https://YOUR-APP.streamlit.app](https://mxmh-app-portfolio.streamlit.app)  <!-- TODO: paste your Streamlit Cloud URL -->
 
 ## Author
 
 **Simon Sealey**, B.S. Data Science & Machine Learning (minor in Social Work), MSU Denver
 - Email: ssealey2@msudenver.edu
-- LinkedIn: https://www.linkedin.com/in/YOUR-HANDLE <!-- TODO -->
+- LinkedIn: www.linkedin.com/in/simon-sealey-008317199 <!-- TODO -->
 
 ## App navigation
 
