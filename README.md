@@ -2,7 +2,7 @@
 
 A multi-page Streamlit app that serves as my data visualization portfolio and a small analytics product. It explores the Music & Mental Health (MxMH) survey to see how people's listening habits line up with their self-rated anxiety, depression, insomnia and OCD, using an EDA gallery and an interactive dashboard.
 
-**Live app:** [https://YOUR-APP.streamlit.app](https://mxmh-app-portfolio.streamlit.app)  <!-- TODO: paste your Streamlit Cloud URL -->
+**Live app:** [https://mxmh-app-portfolio.streamlit.app](https://mxmh-app-portfolio.streamlit.app)  <!-- TODO: paste your Streamlit Cloud URL -->
 
 ## Author
 
