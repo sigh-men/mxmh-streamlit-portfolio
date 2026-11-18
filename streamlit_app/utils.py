@@ -14,7 +14,7 @@ SOURCE_URL = "https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-res
 
 AUTHOR = "Simon Sealey"
 EMAIL = "simon.sealey.ss@gmail.com"
-LINKEDIN = "www.linkedin.com/in/simon-sealey-008317199"  # TODO: your LinkedIn URL
+LINKEDIN = "LINKEDIN = "https://www.linkedin.com/in/simon-sealey-008317199"  # TODO: your LinkedIn URL
 
 # Palette: ink and mist for the interface, Okabe-Ito for data (color-blind safe).
 INK = "#1B2230"
