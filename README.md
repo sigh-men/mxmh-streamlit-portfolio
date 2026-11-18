@@ -80,9 +80,9 @@ See [`requirements.txt`](requirements.txt): streamlit 1.67.0, pandas 3.0.5, nump
 - Alt text on the Bio image.
 
 ## Screenshots
-![Dashboard page with filters, KPIs and linked charts](assets/streamlit_app/screenshot_dashboard.png)
+![Dashboard page with filters, KPIs and linked charts](streamlit_app/assets/screenshot_dashboard.png)
 
-![Overview page with a waveform of all 736 respondents](assets/streamlit_app/screenshot_overview.png)
+![Overview page with a waveform of all 736 respondents](streamlit_app/assets/screenshot_overview.png)
 
 ## AI assistance
 I used Claude (Anthropic) to help scaffold the app code, draft chart explanations and edit this README; I reviewed, tested and revised all of it.
