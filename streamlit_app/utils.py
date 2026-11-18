@@ -13,8 +13,8 @@ DATA_PATH = ROOT / "data" / "mxmh_survey_results.csv"
 SOURCE_URL = "https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results"
 
 AUTHOR = "Simon Sealey"
-EMAIL = "ssealey2@msudenver.edu"
-LINKEDIN = "https://www.linkedin.com/in/YOUR-HANDLE"  # TODO: your LinkedIn URL
+EMAIL = "simon.sealey.ss@gmail.com"
+LINKEDIN = "www.linkedin.com/in/simon-sealey-008317199"  # TODO: your LinkedIn URL
 
 # Palette: ink and mist for the interface, Okabe-Ito for data (color-blind safe).
 INK = "#1B2230"
