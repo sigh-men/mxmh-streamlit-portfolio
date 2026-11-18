@@ -7,7 +7,7 @@ A multi-page Streamlit app that serves as my data visualization portfolio and a 
 ## Author
 
 **Simon Sealey**, B.S. Data Science & Machine Learning (minor in Social Work), MSU Denver
-- Email: ssealey2@msudenver.edu
+- Email: ssealey2@msudenver.edu or simon.sealey.ss@gmail.com
 - LinkedIn: www.linkedin.com/in/simon-sealey-008317199 <!-- TODO -->
 
 ## App navigation
